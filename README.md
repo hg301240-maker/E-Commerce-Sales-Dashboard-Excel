@@ -52,9 +52,10 @@ The project demonstrates practical Excel skills commonly used in business report
 > **Add a screenshot of your dashboard here after uploading it to the repository.**
 
 ```markdown
-<img width="746" height="356" alt="image" src="https://github.com/user-attachments/assets/bea918ab-93f7-4a03-920b-95e89c784df6" />
-<img width="734" height="356" alt="image" src="https://github.com/user-attachments/assets/6aad51d2-1996-493f-b4e9-2861244e5fb6" />
-<img width="740" height="352" alt="image" src="https://github.com/user-attachments/assets/1ab20580-b4ea-405c-861c-7cbe9288217a" />
+<img width="746" height="353" alt="image" src="https://github.com/user-attachments/assets/a83e62ba-83a4-4dff-8a6b-4990be5597ce" />
+<img width="727" height="334" alt="image" src="https://github.com/user-attachments/assets/7b06bb84-0918-43c7-92f6-590418f85f83" />
+<img width="736" height="349" alt="image" src="https://github.com/user-attachments/assets/7d599dd9-4774-4dd2-b7fc-dc05dbeb931b" />
+
 
 ---
 
