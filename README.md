@@ -115,7 +115,7 @@ Through this project, I gained hands-on experience in:
 
 BCA Graduate | Aspiring Data Analyst
 
-I am passionate about Data Analytics and Business Intelligence. I enjoy solving business problems through data using Microsoft Excel, SQL, Power BI, and Python.
+I am passionate about Data Analytics and Business Intelligence. I enjoy solving business problems through data using Microsoft Excel and Power BI.
 
 **LinkedIn:** *https://www.linkedin.com/in/harshit-gupta-b90731408/*
 
